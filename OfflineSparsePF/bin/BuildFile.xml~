@@ -1,0 +1,7 @@
+<use name="BaconAna/DataFormats"/>
+<use name="BaconAna/Utils"/>
+<use name="DMSAna/Utils"/>
+<use name="root"/>
+<flags CXXFLAGS="-g -Wall"/>
+<bin file="runZeeSelection.cc" name="runZeeSelection"></bin>
+<bin file="runZmmSelection.cc" name="runZmmSelection"></bin>
